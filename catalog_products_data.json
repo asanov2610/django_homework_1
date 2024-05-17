@@ -1,0 +1,54 @@
+[
+  {
+    "model" : "catalog.product" ,
+    "pk" : 1 ,
+    "fields" : {
+      "name" : "Замороженные пельмени" ,
+      "information" : "Куриный фарш" ,
+      "image" : "" ,
+      "category" : 2 ,
+      "price" : 150 ,
+      "created_at" : "2024-05-07" ,
+      "updated_at" : "2024-05-07"
+    }
+  } ,
+  {
+    "model" : "catalog.product" ,
+    "pk" : 2 ,
+    "fields" : {
+      "name" : "Банан" ,
+      "information" : "Полезный и вкусный" ,
+      "image" : "" ,
+      "category" : 1 ,
+      "price" : 75 ,
+      "created_at" : "2024-05-07" ,
+      "updated_at" : "2024-05-07"
+    }
+  } ,
+  {
+    "model" : "catalog.product" ,
+    "pk" : 3 ,
+    "fields" : {
+      "name" : "Рис" ,
+      "information" : "Полезный гарнир" ,
+      "image" : "" ,
+      "category" : 3 ,
+      "price" : 50 ,
+      "created_at" : "2024-05-07" ,
+      "updated_at" : "2024-05-07"
+    }
+  } ,
+  {
+    "model" : "catalog.product" ,
+    "pk" : 4 ,
+    "fields" : {
+      "name" : "Капуста" ,
+      "information" : "Добавляется в салаты, борщ.\r\nМожно подавать как гарнир" ,
+      "image" : "" ,
+      "category" : 4 ,
+      "price" : 25 ,
+      "created_at" : "2024-05-07" ,
+      "updated_at" : "2024-05-07"
+    }
+  }
+]
